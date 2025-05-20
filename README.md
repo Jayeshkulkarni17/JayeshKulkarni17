@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React Native / React and Next JS<br>🌱 I’m currently learning Node.JS, Express.JS and MongoDB<br>💬 Ask me about React Native / React<br>
+🔭 I’m working on React Native / React and Next JS<br>🌱 I’m currently learning Node.JS, Express.JS and MongoDB<br>💬 Ask me about React Native / React<br>
 
 
 ## 🌐 Socials:
